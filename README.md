@@ -53,27 +53,3 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
-
-<!-- TOP LANGUAGES -->
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eminexedev&layout=compact&theme=tokyonight"
-    media="(prefers-color-scheme: dark)" />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eminexedev&layout=compact&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminexedev&layout=compact" alt="Top Languages" />
-</picture>
-
-<br/>
-
-<!-- GITHUB STATS -->
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=eminexedev&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)" />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=eminexedev&show_icons=true&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=eminexedev&show_icons=true" alt="GitHub Stats" />
-</picture>
