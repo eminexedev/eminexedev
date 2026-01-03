@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emin</h1>
 <h3 align="center">A passionate Frontend Developer from Turkey.</h3>
+<p> text </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
