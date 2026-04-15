@@ -23,7 +23,7 @@
 ### 🛠️ Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,css,html,dart,docker,flutter,js,nginx,nodejs,py,react,svelte,tailwind&perline=7" alt="Emin's Skills" />
+    <img src="https://skillicons.dev/icons?i=c,css,html,dart,docker,flutter,js,nginx,nodejs,py,react,svelte,tailwind,postgres,mysql&perline=8" alt="Emin's Skills" />
   </a>
 </p>
 
