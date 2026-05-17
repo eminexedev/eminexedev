@@ -30,11 +30,6 @@
 ---
 
 ### ⚡ GitHub Stats
-<p align="center">
-  <a href="https://github.com/eminexedev">
-    <img src="https://github-readme-stats.vercel.app/api?username=eminexedev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Emin's GitHub Stats" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eminexedev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="eminexedev profile views" />
